@@ -4,4 +4,3 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Zizes0/langs?time_range=one_year&use_percent=True&theme=dark)
 
-https://api.githubtrends.io/user/svg/Zizes0/langs?time_range=one_year&use_percent=True&theme=dark
